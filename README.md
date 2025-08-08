@@ -1,5 +1,3 @@
-# Jyotsna-Sandhu
-
 # 👋 Hi, I’m Jyotsna Sandhu
 
 🔍 **QA Automation Specialist | Data Enthusiast | Lifelong Learner**
